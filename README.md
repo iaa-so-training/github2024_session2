@@ -9,7 +9,6 @@ This repository contains a synthetic dataset of galaxies designed for hands-on t
 ## How to Contribute
 
 - Fork the repository.
-- Clone your forked repository locally.
 - Create a new branch for your changes.
 - Commit your edits and push them to your fork.
 - Submit a pull request to the main repository for review.
