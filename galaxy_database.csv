@@ -6,7 +6,7 @@ G004,0.05,Elliptical,Star Formation,-19.7,Lee+23,Low metallicity
 G005,0.15,Spiral,SF,-10.0,Doe+19,Active nucleus
 G006,0.07,Irregular,None,-17.8,Brown+22,Cluster neighbor
 G007,,Elliptical,AGN,-20.2,Green+21,Isolated galaxy
-G008,0.18,Spirral,SF,-21.3,Taylor+20,Edge-on spiral
+G008,0.18,Spiral,SF,-21.3,Taylor+20,Edge-on spiral
 G009,0.02,Irregular,None,-19.0,Evans+23_extra,Compact
 G010,0.13,Elliptical,AGN activity,-20.7,Wilson+22,Diffuse
 G011,0.22,Spiral,SF,-25.0,Martinez+20,High mass
@@ -22,10 +22,10 @@ G020,0.21,Spiral,SF,-22.3,Young+20,AGN detcted
 G021,0.08,Irregular,None,-19.9,Scott+2023,Diffuse halo
 G022,0.25,Elliptical,AGN,-19.999,Fisher+21,Bright core
 G023,0.19,Spiral,None detected,-21.2,Reed+22,Metal-poor
-G024,0.03,Irregualr,None,-18.7,Morgan+20,Low SFR
+G024,0.03,Irregular,None,-18.7,Morgan+20,Low SFR
 G025,-0.18,Elliptical,AGN,-20.8,Watson+23,Cluster member
 G026,0.22,Spiral,SF,-21.6,Nelson+21,Low SFR value
 G027,0.1,Irregular,None,-19.3,Carter-20,Low velocity
-G028,0.12,Elliptical,Uncertain,-20.4,Perry+23,Minor merger
+G028,0.12,Elliptical,AGN,-20.4,Perry+23,Minor merger
 G029,0.16,Elliptical_l,SF,-21.0,Hunter+22,Gas inflow
-G030,2.1,Irregular,None,-18.4,Bell+21,Quiescent
+G030,0.2,Irregular,None,-18.4,Bell+21,Quiescent
