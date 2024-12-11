@@ -12,6 +12,7 @@ This repository contains a synthetic dataset of galaxies designed for hands-on t
 - Create a new branch for your changes.
 - Commit your edits and push them to your fork.
 - Submit a pull request to the main repository for review.
+- Do not forget to be clear and specific in your comments.
 
 ## Dataset Overview
 
