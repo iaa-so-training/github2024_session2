@@ -1,5 +1,5 @@
 Galaxy ID,Redshift,Galaxy Type,Activity,Absolute Magnitude,Reference,Notes
-G001,0.03,Elliptcal,AGN,-20.5,Johnston+22,No issues
+G001,0.03,Elliptical,AGN,-20.5,Johnston+22,No issues
 G002,-0.12,Spiral,SF,-21.1,Smith+20,High velocity
 G003,0.2,Irregular,None,-18.3,Clark_21,Starburst activity
 G004,0.05,Elliptical,SF,-19.7,Lee+23,Low metallicity
