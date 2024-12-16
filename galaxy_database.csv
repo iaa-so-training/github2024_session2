@@ -13,7 +13,7 @@ G011,0.22,Spiral,SF,-25.0,Martinez+20,High mass
 G012,0.0,Irregular,None,-18.5,Chen+21,Low mass
 G013,0.11,Elliptical,AGN,-19.6,Thompson+23,Dust peak
 G014,0.16,Elliptiacl,SF,-21.4,Roberts+22,Star formation peak
-G015,0.14,Irregular,Star-Forming,-18.9,Davis+19,Interaction signs
+G015,0.14,Irregular,SF,-18.9,Davis+19,Interaction signs
 G016,0.19,Elliptical,AGN,-20.0,Hall_20,High metallicity
 G017,0.09,Spiral,SF,-19.5,Gonzalez+22,Intermediate age
 G018,0.06,Iregular,None,-18.0,Adams+21,Young population
